@@ -62,4 +62,4 @@ This cleaned dataset can be used for:
 ---
  Project Author
 
-Maintained by [Jay Dhamankar]
+Maintained by Jay Dhamankar.
